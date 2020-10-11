@@ -1,4 +1,4 @@
-# Kaggle Competition to classify tweets wether they are real or not:
+# Classify tweets wether they are real or not:
 
 The goal was to classify tweets about disasters wether they were real or not. To do so, we used natural language processing and Keras to classify them. By using techniques of text cleaning and then a mix of convolutional and reccurent networks, we made up to 80% accuracy.
 
