@@ -4,4 +4,4 @@ The goal was to classify tweets about disasters wether they were real or not. To
 
 *Competition link: https://www.kaggle.com/c/nlp-getting-started/overview*
 
-![image](https://user-images.githubusercontent.com/55701302/95686727-1d894200-0c00-11eb-917b-3b8a850be060.png)
+![image](https://user-images.githubusercontent.com/55701302/100527750-b8040b80-31d5-11eb-8b97-f472f04f8b99.png)
